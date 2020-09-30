@@ -3,12 +3,15 @@
 Estoy haciendo el grado de ingeniería informatica en la Universidad de Granada.
 
 Aqui puedes encontrar mas proyectos en los que he colaborado para la universidad, a parte de los que puedes ver en los repositorios:
+
 *Para Fundamentos de Redes:
-[GitHub] https://github.com/aluruiz/ugr-FR-Ejercicio5
+https://github.com/aluruiz/ugr-FR-Ejercicio5
+
 *Para Sistemas de Información Basados en Web:
-[GitHub] https://github.com/K-Embee/Uni_SIBW_Practicas
+https://github.com/K-Embee/Uni_SIBW_Practicas
+
 *Para Desarrollo Software:
-[GitHub] https://github.com/K-Embee/Uni_DS_Practica2
+https://github.com/K-Embee/Uni_DS_Practica2
 
 
 <!--
